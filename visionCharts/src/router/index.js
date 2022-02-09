@@ -13,7 +13,7 @@ Vue.use(VueRouter);
 const routes = [
   // 配置销量页面的路由
   {
-    path: "/",
+    path: "",
     redirect: "/home",
   },
   {
